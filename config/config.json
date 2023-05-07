@@ -1,0 +1,42 @@
+{
+  "twitter": {
+    "observe_time": 2,
+    "predict_time": 500,
+    "time_unit": 86400,
+    "train_time": 8,
+    "val_time": 12,
+    "test_time": 16,
+    "min_cas_size": 11,
+    "max_cas_size": 100
+  },
+  "weibo": {
+    "observe_time": 1,
+    "predict_time": 500,
+    "time_unit": 3600,
+    "train_time": 10,
+    "val_time": 13,
+    "test_time": 16,
+    "min_cas_size": 11,
+    "max_cas_size": 100
+  },
+  "aps": {
+    "observe_time": 5,
+    "predict_time": 500,
+    "time_unit": 365,
+    "train_time": 84,
+    "val_time": 94,
+    "test_time": 104,
+    "min_cas_size": 11,
+    "max_cas_size": 100
+  },
+  "small_twitter": {
+    "observe_time": 2,
+    "predict_time": 500,
+    "time_unit": 86400,
+    "train_time": 8,
+    "val_time": 12,
+    "test_time": 16,
+    "min_cas_size": 11,
+    "max_cas_size": 100
+  }
+}
