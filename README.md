@@ -14,7 +14,7 @@ This is the implementation of CTCP: [Continuous-Time Graph Learning for Cascade 
 
 ## Dataset
 
-- Download the preprocessed dataset from [Baidu Yun](https://pan.baidu.com/s/1jejJYC6xDW7usRqWo0GHrg)
+- Download the preprocessed dataset from [Baidu Yun](https://pan.baidu.com/s/1qBauuSOk29lQUH9Bvh6_hg) （extract code myu6）
 - create a directory `./data` and put the downloaded dataset into the directory.
 
 ## Run
